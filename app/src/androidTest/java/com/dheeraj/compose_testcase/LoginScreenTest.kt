@@ -20,14 +20,14 @@ class LoginScreenTest {
         composeTestRule.setContent {
             MaterialTheme {
                 LoginScreen { email, password ->
-                    assert(email == "dsb@gmail.com" && password == "123456")
+                    assert(email == "dheeraj@gmail.com" && password == "123456")
                 }
             }
         }
 
         // Enter email and password
         composeTestRule.onNodeWithTag("EmailTextField")
-            .performTextInput("dsb@gmail.com")
+            .performTextInput("dheeraj@gmail.com")
         composeTestRule.onNodeWithTag("PasswordTextField")
             .performTextInput("123456")
 
@@ -46,7 +46,7 @@ class LoginScreenTest {
         composeTestRule.setContent {
             MaterialTheme {
                 LoginScreen { email, password ->
-                    assert(email != "dsb@gmail.com" || password != "123456")
+                    assert(email != "dheeraj@gmail.com" || password != "123456")
                 }
             }
         }
