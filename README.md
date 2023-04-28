@@ -7,5 +7,5 @@ Automation-Testing-Login-Screen-Jetpack-Compose-Complete-Code-Example is availab
 ![image description](https://github.com/dheeraj-bhadoria/Automation-Testing-Login-Screen-Jetpack-Compose-Complete-Code-With-Example/blob/main/automatedtestingcomposegif.gif)
 
 # How to start test
-![image description](https://github.com/dheeraj-bhadoria/Automation-Testing-Login-Screen-Jetpack-Compose-Complete-Code-With-Example/blob/main/automatedtestingcomposeruntest.png
+![image description](https://github.com/dheeraj-bhadoria/Automation-Testing-Login-Screen-Jetpack-Compose-Complete-Code-With-Example/blob/main/automatedtestingcomposeruntest.png)
 
