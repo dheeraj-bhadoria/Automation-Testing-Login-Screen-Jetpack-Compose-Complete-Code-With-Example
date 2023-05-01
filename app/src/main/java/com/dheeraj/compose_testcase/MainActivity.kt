@@ -73,7 +73,7 @@ fun LoginScreen(onLoginClicked: (String, String) -> Unit) {
 
         Button(
             onClick = {
-                if (email.text == "dheeraj@gmail.com" && password.text == "1234567") {
+                if (email.text == "dheeraj@gmail.com" && password.text == "123456") {
                     message = "Login successful"
                     onLoginClicked(email.text, password.text)
                 } else {
