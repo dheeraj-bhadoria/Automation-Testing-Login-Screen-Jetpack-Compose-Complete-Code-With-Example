@@ -9,7 +9,7 @@ Automation-Testing-Login-Screen-Jetpack-Compose-Complete-Code-Example is availab
 # How to start test 
 ![image description](https://github.com/dheeraj-bhadoria/Automation-Testing-Login-Screen-Jetpack-Compose-Complete-Code-With-Example/blob/main/automatedtestingcomposeruntest.png)
 
-# Test cases with automatically runs when you commit build 
+# Continuous integration- Test cases with automatically runs when you commit build 
 Following code in android.yml will execute all test case and its build - 
 ```groove
 name: Android CI
